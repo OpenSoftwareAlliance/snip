@@ -1,3 +1,17 @@
+<!-- osa:header:start -->
+# OSA Snip
+
+Self-hosted code snippets and gists. Open alternative to **Google Keep (snippets)**, part of the [Open Software Alliance](https://github.com/OpenSoftwareAlliance) suite.
+
+| | |
+|---|---|
+| Upstream | [Drift](https://github.com/MaxLeiter/Drift), kept in sync with this repository |
+| License | MIT |
+
+Credit for the original work goes to the Drift authors. Everything below this header is the upstream README.
+
+---
+<!-- osa:header:end -->
 # <img src="src/public/assets/logo.png" height="32px" alt="" /> Drift
 
 > **Note:** This branch is where all work is being done to refactor to the Next.js 13 app directory and React Server Components.
