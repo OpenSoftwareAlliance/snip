@@ -1,3 +1,17 @@
+<!-- osa:header:start -->
+# OSA Snip
+
+Self-hosted code snippets and gists. Open alternative to **Google Keep (snippets)**, part of the [Open Software Alliance](https://github.com/OpenSoftwareAlliance) suite.
+
+| | |
+|---|---|
+| Upstream | [Drift](https://github.com/MaxLeiter/Drift), kept in sync with this repository |
+| License | MIT |
+
+Credit for the original work goes to the Drift authors. Everything below this header is the upstream README.
+
+---
+<!-- osa:header:end -->
 # <img src="client/public/assets/logo.png" height="32px" alt="" /> Drift
 
 Drift is a self-hostable Gist clone. It's also a major work-in-progress, but is completely functional.
